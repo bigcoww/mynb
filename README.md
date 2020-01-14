@@ -1,0 +1,2 @@
+# mynb
+My code
